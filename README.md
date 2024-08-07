@@ -1,7 +1,7 @@
 # Tic Tac Toe
 
 ## Overview
-A recreatation of the game, Tic Tac Toe.
+A recreatation of the game, Tic Tac Toe, in the web browser.
 
 ## Description
 Tic Tac Toe was recreated in the web-browser as part of a learning exercise. Although the game is in a playable state, updates to the project may be made as new JavaScript libraries and frameworks are tested. The rules of the game may also be adapted from the original version of the game, so be sure to check out the rules section below for the most up-to-date rules.
