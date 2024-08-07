@@ -7,9 +7,9 @@ Tic Tac Toe was recreated using HTML, CSS, and JavaScript as a learning exercise
 - Tic Tac Toe is a two player game.
 - Player 1 will mark squares on the board using an 'X'.
 - Player 2 will mark squares on the board using an 'O'.
-- To start the game, player 1 will go first, marking one of the empty squares on the 3x3 board with an 'X'.
+- To start the game, player 1 will go first, marking one of the empty squares on the board with an 'X'.
 - Player 2 will follow by marking another empty square with an 'O'.
-- Players 1 and 2 will continue to alternate turns, marking squares on the board in the same fashion.
+- Players 1 and 2 will continue to alternate turns.
 - The first player to get 3 'X's or 3 'O's in a row wins.
 - Note that '3 in a row' can be in the row direction, column direction, or diagonally.
 - If neither player achieves 3 in a row, and there are no more empty squares, the game ends in a draw.
