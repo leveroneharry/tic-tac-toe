@@ -3,7 +3,7 @@
 ## Description
 Tic Tac Toe was recreated using HTML, CSS, and JavaScript as a learning exercise. The game is complete, but updates to the project may be made as new JavaScript features are tested. The rules of the game may also be adapted from the original version of the game. If so, they will be reflected in the rules section below.
 
-## Rules
+## Game Rules
 - Tic Tac Toe is a two player game played on a 3 by 3 board.
 - Player 1 will mark squares on the board using an 'X'.
 - Player 2 will mark squares on the board using an 'O'.
