@@ -19,4 +19,4 @@ As it stands, the rules of the game have not deviated from the original version 
 - If neither player achieves 3 in a row, and there are no more empty squares, the game ends in a draw.
 
 ## Usage
-To play the game, you may fork the project or download the files, then run the project in your web browser.
+To play the game, you may clone the repository or download the files, then run the project in your web browser.
