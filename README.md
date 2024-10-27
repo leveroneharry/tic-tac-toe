@@ -15,4 +15,4 @@ Tic Tac Toe was recreated using HTML, CSS, and JavaScript as a learning exercise
 - If there are no more empty squares to mark, and neither player has won, then the game ends in a draw.
 
 ## Usage
-To play the game, you may clone the repository or download the files, then run the project in your web browser.
+To play the game, you may clone the repository or download the files, then run the project in your web browser by double-clicking the index.html file.
